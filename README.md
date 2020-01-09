@@ -11,10 +11,8 @@ Powersosh is a module which can help you do simple OSINT to find profiles online
 
 To run Powersosh:
 
-Download the script on my GitHub:
-Open PowerShell and navigate to the script.
-Run: Import-Module .\powersosh.ps1
-Run: powersosh
+- Run: Import-Module .\powersosh.ps1
+- Run: powersosh
 
 Enter the username and Powersosh will search the web:
 
