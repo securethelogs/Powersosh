@@ -12,7 +12,6 @@
 #>
 
 
-function powersosh {
 
 Write-Output ""
 Write-Output "__________                                             .__     "
@@ -86,4 +85,3 @@ else {
 }
 
 Write-Output "`n"
-}
