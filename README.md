@@ -13,8 +13,7 @@ powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https:
 
 Enter the username and Powersosh will search the web:
 
-
-![Powersosh2](https://ctrla1tdel.files.wordpress.com/2020/01/image-32.png)
+![Powersosh2](https://ctrla1tdel.files.wordpress.com/2020/02/powersosh.gif)
 
 If you have any more sites for me to add or any feedback, let me know:
 
