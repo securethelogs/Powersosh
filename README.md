@@ -1,18 +1,15 @@
 # Powersosh
 
-![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2019/04/cropped-thumb-1920-865098.jpg)
-
-
-Powersosh is a module which can help you do simple OSINT to find profiles online.
 
 ![powersosh1](https://ctrla1tdel.files.wordpress.com/2020/01/image-31.png)
 
+Powersosh is a module which can help you do simple OSINT to find profiles online.
 
 
-To run Powersosh:
+Either run Powersosh locally with the script or remotely: 
 
-- Run: Import-Module .\powersosh.ps1
-- Run: powersosh
+powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/Powersosh/master/powersosh.ps1’)”
+
 
 Enter the username and Powersosh will search the web:
 
